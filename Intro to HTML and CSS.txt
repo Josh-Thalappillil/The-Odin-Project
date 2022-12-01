@@ -20,4 +20,4 @@ Between HTML and CSS, which would you use for changing the font and background c
 CSS.
 
 What is the difference between HTML, CSS and JavaScript?
-HTML is essentially the a language used to build the website whereas CSS is used to change the style and layout of a HTML website and JavaScript can be used to modify the elements after the website has been loaded.
+HTML is essentially the language used to build the website whereas CSS is used to change the style and layout of a HTML website and JavaScript can be used to modify the elements after the website has been loaded.
