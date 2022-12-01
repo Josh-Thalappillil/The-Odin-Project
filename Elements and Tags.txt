@@ -1,0 +1,11 @@
+Elements and Tags
+
+Elements are containers for content. Opening tag tells the documents what content the element will contain. This is used to determine how the content should be interpreted formatted.
+
+Knowledge Check:
+
+What is an HTML tag?
+Essentially a piece of language that is used to indicate the start and end of an HTML element.
+
+What are the three parts of an HTML element?
+Opening tag, content and closing tag.

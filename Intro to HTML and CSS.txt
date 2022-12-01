@@ -1,1 +1,23 @@
 Introduction To HTML And CSS
+
+
+HTML is essentially the language that determines how the documents and webpages will be displayed. AKA The language for building blocks of a website.
+
+CSS is a style language that determines how a HTML document will appear. (Colours, font styles, layout and responsive features.)
+
+JavaScript allows modification of CSS and HTML elements after the website has been loaded. 
+
+
+Questions from Odin Project Knowledge Check:
+
+What do HTML and CSS stand for?
+Hypertext Markup Language and Cascading Style Sheets.
+
+Between HTML and CSS, which would you use for putting paragraphs of text on a webpage?
+HTML.
+
+Between HTML and CSS, which would you use for changing the font and background color of a button?
+CSS.
+
+What is the difference between HTML, CSS and JavaScript?
+HTML is essentially the a language used to build the website whereas CSS is used to change the style and layout of a HTML website and JavaScript can be used to modify the elements after the website has been loaded.
