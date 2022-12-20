@@ -1,0 +1,17 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    background: peachpuff;
+}
+.container {
+    border: 5px solid lightgreen;
+    display: flex;
+    gap: 10px;
+    margin: 20px;
+}
+
+.container div {
+    text-align: center;
+    padding: 10px;
+    background-color: yellow;
+}
